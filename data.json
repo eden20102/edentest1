@@ -1,0 +1,95 @@
+{
+    "emp_details": [
+        {
+            "emp_name": "eden",
+            "email": "eden20102@gmail.com",
+            "job_profile": "so"
+        },
+        {
+            "emp_name": "moshe",
+            "email": "wwww0102@gmail.com",
+            "job_profile": "wwww"
+        },
+        {
+            "emp_name": "yosii",
+            "email": "en202@gmail.com",
+            "job_profile": "soft"
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "eden ohana",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full "
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "eden ohana",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full ",
+            "pin": 2525
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "koral hazan",
+            "email": "koral760@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "koral hazan",
+            "email": "koral760@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "koral hazan",
+            "email": "koral760@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        },
+        {
+            "emp_name": "koral hazan",
+            "email": "koral760@geeksforgeeks.org",
+            "job_profile": "Full Time",
+            "pin": 2525
+        },
+        {
+            "emp_name": "koral hazan",
+            "email": "koral760@geeksforgeeks.org",
+            "job_profile": "Full Time",
+            "pin": 2525,
+            "gme": 2222
+        },
+        {
+            "emp_name": "koral hazan",
+            "email": "koral760@geeksforgeeks.org",
+            "job_profile": "Full Time",
+            "pin": 2525,
+            "gme": "eden"
+        }
+    ]
+}
